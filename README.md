@@ -19,7 +19,7 @@ Automatically fetches contests every hour and displays them on a sleek web inter
 
 ## 📸 Demo
 
-![Project Demo Screenshot](images/screenshot.png)
+![Project Demo Screenshot](images/Screenshot1.png)
 
 ---
 
@@ -90,7 +90,7 @@ coding-contest-tracker/
 
 ---
 
-## 🧠 Future Improvements
+## 🧠 Future Improvements to Work On
 
 - [ ] Add more platforms (AtCoder, HackerRank, etc.)
 - [ ] User login & custom reminders
@@ -110,12 +110,3 @@ Inspired by the love of coding and the thrill of contests 🧑‍💻
 
 This project is open source and available under the [MIT License](LICENSE).
 ```
-
----
-
-Let me know if you want:
-- Deployment instructions added
-- A logo/banner
-- Or if you’re uploading this to GitHub and want a `gh-pages` live site
-
-Absolute pleasure working with you bro! 🔥
