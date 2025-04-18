@@ -1,6 +1,3 @@
----
-
-```markdown
 # ⚡ Coding Contest Tracker
 
 A Java + Spring Boot-based web application to track upcoming programming contests from **Codeforces** and **LeetCode**.  
