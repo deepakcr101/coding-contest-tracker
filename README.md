@@ -90,7 +90,7 @@ coding-contest-tracker/
 
 ---
 
-## 🧠 Future Improvements
+## 🧠 Future Improvements to Work On
 
 - [ ] Add more platforms (AtCoder, HackerRank, etc.)
 - [ ] User login & custom reminders
@@ -112,10 +112,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ```
 
 ---
-
-Let me know if you want:
-- Deployment instructions added
-- A logo/banner
-- Or if you’re uploading this to GitHub and want a `gh-pages` live site
-
-Absolute pleasure working with you bro! 🔥
