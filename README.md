@@ -19,7 +19,8 @@ Automatically fetches contests every hour and displays them on a sleek web inter
 
 ## 📸 Demo
 
-![screenshot](https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon)
+![screenshot](![image](https://github.com/user-attachments/assets/00d94e28-038e-4e3e-928d-40449d1a9624)
+)
 
 ---
 
