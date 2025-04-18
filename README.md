@@ -19,7 +19,11 @@ Automatically fetches contests every hour and displays them on a sleek web inter
 
 ## 📸 Demo
 
+<<<<<<< HEAD
 ![Project Demo Screenshot](images/Screenshot1.png)
+=======
+![Project Demo Screenshot](images/'Screenshot coding contest tracker demo.png')
+>>>>>>> 1cc2890b7ae93fe8cafb1004489ebf6bd950c458
 
 ---
 
